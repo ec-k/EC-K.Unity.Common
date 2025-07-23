@@ -1,0 +1,21 @@
+{
+  "name": "com.ec2k.assetutils",
+  "version": "0.1.0",
+  "displayName": "AssetUtils",
+  "description": "",
+  "unity": "2022.3",
+  "keywords": [],
+  "author": {
+    "name": "EC-K",
+    "url": "https://github.com/ec-k"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10",
+    "com.unity.addressables": "1.21.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ec-k/EC-K.Unity.Common.git"
+  },
+  "license": "MIT"
+}
