@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: DebuggingAvatars
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6ce9bf272171c62448e18a238c356981
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f3a4e78e996ccbe4db6a86a483653991, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 762f06dd8843c8d44b87ba23e1827d0a, type: 2}
+    - {fileID: 11400000, guid: 9522726fa3561de4d9364bd03c179af2, type: 2}
