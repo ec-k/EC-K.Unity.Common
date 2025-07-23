@@ -12,11 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
   m_Name: DebuggingAvatars
   m_EditorClassIdentifier: 
-  m_GroupName: Packed Assets
+  m_GroupName: DebuggingAvatars
   m_Data:
     m_SerializedData: []
   m_GUID: 6ce9bf272171c62448e18a238c356981
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 7ec45233056360a46a205618633779da
+    m_Address: Assets/Avatars/VRMAvatar/violet.vrm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f3a4e78e996ccbe4db6a86a483653991, type: 2}
   m_SchemaSet:
